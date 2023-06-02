@@ -11,3 +11,8 @@ then run following commands
 
 1. npm install
 2. npm run dev
+
+Pre-requisites to run project on local machine
+
+1. Appropriate React Version and Npm Version
+2. BookStore Server repository available on the same user profile which serves as server side for this project
