@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+img {
+    object-fit: contain;
+    max-width: 100%;
+}
